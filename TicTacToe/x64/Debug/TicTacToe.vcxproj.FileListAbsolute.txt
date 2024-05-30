@@ -1,0 +1,6 @@
+D:\Project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.AssemblyReference.cache
+D:\Project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.MyForm.resources
+D:\Project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.GenerateResource.cache
+D:\C++ Project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.AssemblyReference.cache
+D:\C++ Project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.MyForm.resources
+D:\C++ Project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.GenerateResource.cache
