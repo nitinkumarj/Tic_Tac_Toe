@@ -1,7 +1,8 @@
 # Tic_Tac_Toe
 Tic Tac Toe game built using Windows Forms and C++/CLR.
 
-![image]![image](https://github.com/nitinkumarj/Tic_Tac_Toe/assets/155057392/0c741f43-abfe-44ac-8bbb-6eed8b870b0a)
+![image](https://github.com/nitinkumarj/Tic_Tac_Toe/assets/155057392/a26d6ef1-b330-46cb-b4e9-d3adb5038dc5)
+)
 )
 
 
