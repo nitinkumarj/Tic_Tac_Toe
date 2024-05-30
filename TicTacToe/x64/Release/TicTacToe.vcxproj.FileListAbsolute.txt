@@ -1,3 +1,0 @@
-D:\Project\TicTacToe\TicTacToe\x64\Release\TicTacToe.vcxproj.AssemblyReference.cache
-D:\Project\TicTacToe\TicTacToe\x64\Release\TicTacToe.MyForm.resources
-D:\Project\TicTacToe\TicTacToe\x64\Release\TicTacToe.vcxproj.GenerateResource.cache
